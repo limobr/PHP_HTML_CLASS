@@ -1,0 +1,16 @@
+h2{ 
+    color: chocolate;
+}
+p{
+    font-family: fantasy;
+} 
+
+th, td{
+    border: 2px solid blue;
+    padding: 10px;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
